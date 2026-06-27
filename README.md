@@ -10,9 +10,7 @@ geometry in 3D — including the control arms,
 knuckle, and spring-damper setup. Everything
 is modeled as it would work in a real vehicle.
 
-<img width="579" height="549" alt="Suspention.png" src="https://github.com/user-attachments/assets/96fefa60-e39a-4921-94b1-173c1b4d037a" />
-
-
+<img width="409" height="511" alt="Suspention" src="https://github.com/user-attachments/assets/142b1424-01f7-4604-900d-9548bc0a760e" />
 
 ## Why I made this
 
