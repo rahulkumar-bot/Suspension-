@@ -10,7 +10,9 @@ geometry in 3D — including the control arms,
 knuckle, and spring-damper setup. Everything
 is modeled as it would work in a real vehicle.
 
-<img width="579" height="549" alt="robot_Griper_image" src="https://github.com/user-attachments/assets/96fefa60-e39a-4921-94b1-173c1b4d037a" />
+<img width="579" height="549" alt="Suspention.png" src="https://github.com/user-attachments/assets/96fefa60-e39a-4921-94b1-173c1b4d037a" />
+
+
 
 ## Why I made this
 
