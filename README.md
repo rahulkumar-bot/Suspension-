@@ -67,7 +67,7 @@ Suspension-cad/
 ├── README.md
 ├── LICENSE
 ├── CAD/
-│   ├── native/              # Editable source files (.sldprt, .sldasm, .f3d, .ipt, .iam, etc.)
+│   ├── native/              # Editable source files (.rtl, .dwg, .f3d, .ipt, .iam, etc.)
 │   ├── step/                # Neutral exchange format (.step / .stp) — for anyone without your CAD license
 │   ├── parasolid/           # Optional (.x_t / .x_b)
 │   └── drawings/            # 2D engineering drawings (.pdf / .dwg)
